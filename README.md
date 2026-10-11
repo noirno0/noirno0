@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anushka!! 👋
 
-<!--
-**noirno0/noirno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering student interested in
+**embedded systems** and **CS**.
 
-Here are some ideas to get you started:
+## About me
+- 🎓 ECE student
+- 🔭 Planning to build embedded systems and some CS projects
+- 🌱 Learning by building, and I'll add my work here as I go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+**Languages:** Python, C, C++, HTML, CSS
+**Interests:** Embedded systems, machine learning, electronics, communication systems
+
+## Reach me
+- Email: ashbel245@gmail.com
